@@ -74,7 +74,7 @@ Welcome to my Data Science Projects Repository! This repository serves as a show
   - **Machine Learning Algorithms:**
     - Transfer Learning (InceptionV3, MobileNetV2), Neural Network (PyTorch)
 
-### 6. Wine Classification
+### 6. Deep Learning: Wine Classification
 
 - **Objective:**
   - Classify types of wine using TensorFlow.
