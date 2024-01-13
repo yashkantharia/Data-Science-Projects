@@ -15,6 +15,9 @@ Welcome to my Data Science Projects Repository! This repository serves as a show
 - **Description:**
   - This project focuses on exploring and forecasting New York Power Consumption trends using the Prophet library. The notebook includes detailed exploratory data analysis (EDA), model development, and evaluation metrics.
 
+  - **Machine Learning Algorithms:**
+    - Time Series Forecasting with Facebook Prophet
+
 ### 2. Regression: Uber Fare Prediction
 
 - **Objective:**
@@ -25,6 +28,9 @@ Welcome to my Data Science Projects Repository! This repository serves as a show
 
 - **Description:**
   - Regression analysis for Uber fare prediction. The notebook covers data preprocessing, geocoding, feature engineering, model development, and evaluation.
+
+  - **Machine Learning Algorithms:**
+    - Linear Regression, Random Forest Regression, XGBoost
 
 ### 3. Regression: Diabetes Prediction
 
@@ -37,6 +43,9 @@ Welcome to my Data Science Projects Repository! This repository serves as a show
 - **Description:**
   - This project focuses on predicting diabetes using a regression model. Feature selection and evaluation metrics such as mean squared error are applied.
 
+  - **Machine Learning Algorithms:**
+    - Linear Regression
+
 ### 4. Deep Learning: Cancer Classification
 
 - **Objective:**
@@ -47,6 +56,9 @@ Welcome to my Data Science Projects Repository! This repository serves as a show
 
 - **Description:**
   - Deep learning model for cancer classification. The notebook includes data preprocessing, statistical tests, and PyTorch-based neural network training.
+
+  - **Machine Learning Algorithms:**
+    - Neural Network (PyTorch)
 
 ### 5. Deep Learning: Cat vs Dog Classification with Transfer Learning
 
@@ -59,6 +71,9 @@ Welcome to my Data Science Projects Repository! This repository serves as a show
 - **Description:**
   - Classification of cat vs dog images using transfer learning with TensorFlow and PyTorch. TensorBoard integration and model evaluation metrics are applied.
 
+  - **Machine Learning Algorithms:**
+    - Transfer Learning (InceptionV3, MobileNetV2), Neural Network (PyTorch)
+
 ### 6. Wine Classification
 
 - **Objective:**
@@ -69,6 +84,10 @@ Welcome to my Data Science Projects Repository! This repository serves as a show
 
 - **Description:**
   - Wine classification using TensorFlow. The notebook covers feature selection, data validation with TensorFlow Data Validation, and model evaluation.
+
+  - **Machine Learning Algorithms:**
+    - Neural Network (TensorFlow)
+
 
 ## Getting Started
 
